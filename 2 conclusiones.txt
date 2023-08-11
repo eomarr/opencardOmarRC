@@ -1,0 +1,6 @@
+Para la demo se utilizo lo siguiente:
+Para el patron de diseño Screenplay
+Para el diseño de casos gherkin
+Para las dependencias gradle
+Tuve dificultades con la compatibilidad de las versiones pero se pudieron superar
+para el diseño de casos de prueba la sintaxis Gherki nos permite diseñar el caso de prueba de manera legible para personas de diferentes perfiles
